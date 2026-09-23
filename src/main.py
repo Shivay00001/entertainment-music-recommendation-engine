@@ -1,6 +1,6 @@
 import argparse
-from src.dataset import load_mock_dataset
-from src.recommender import MusicRecommender
+from dataset import load_mock_dataset
+from recommender import MusicRecommender
 
 def main():
     parser = argparse.ArgumentParser(description="Music Recommendation Engine")
