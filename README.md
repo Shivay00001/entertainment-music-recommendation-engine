@@ -1,5 +1,7 @@
 # Entertainment Music Recommendation Engine
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 Music recommendation engine with Python backend, interactive dashboard, and CI/CD.
 
 ![Language](https://img.shields.io/badge/Language-HTML-blue)
